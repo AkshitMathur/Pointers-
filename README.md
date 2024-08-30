@@ -5,7 +5,8 @@ Experiment 9
 - [Software Used](#software-used)
 - [Theory](#theory)
   * [Definition](#definition)
-  *  * [Properties](#properties)
+  * [Properties](#properties)
+  * [Advantages](#Advantages)
 - [Algorithms](#algorithms)
 - [Conclusion](#conclusion)
 
